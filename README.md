@@ -18,9 +18,9 @@ Most Google Drive libraries are built for humans. This one's built for machines.
 - **Search**: Content and filename search with folder scoping
 
 ### Document Export Features
-- **Google Docs → Markdown**: Full document structure with images, tables, and formatting
-- **Google Slides → Markdown**: Slide content with image extraction
-- **Google Sheets → CSV/Excel**: Sheet export with formatting preservation
+- **Google Docs → Markdown/pdf**: Full document structure with images, tables, and formatting
+- **Google Slides → Markdown/pdf**: Slide content with image extraction
+- **Google Sheets → Markdown/pdf**: Sheet export with formatting preservation
 - **Asset Management**: Automatic image and media extraction
 - **Smart Caching**: Skip re-exporting unchanged files
 
